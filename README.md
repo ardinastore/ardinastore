@@ -44,8 +44,8 @@
 
 
 
-
-<img src="https://raw.githubusercontent.com/fahmi959/fahmi959/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ardinastore/ardinastore/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/fahmi959/fahmi959/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
